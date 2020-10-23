@@ -1,0 +1,3 @@
+[submodule "foex-scraping-tool"]
+	path = foex-scraping-tool
+	url = https://Dariiio@bitbucket.org/Dariiio/foex-scraping-tool.git
